@@ -28,7 +28,7 @@ pip install opencv-python pyautogui numpy mss
 ```
 ### **2️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/auto-clicker.git
+git clone https://github.com/notkane-tech/autoclicker.git
 cd auto-clicker
 ```
 
