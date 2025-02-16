@@ -1,5 +1,3 @@
-### **📜 README.md - Auto-Clicker for Color Detection**  
-
 # **🎯 Auto-Clicker for Game Squares**
 This is a **Python-based auto-clicker** that detects and clicks on specific colored objects in a game using **computer vision (OpenCV)** and **screen capture (MSS)**.  
 
