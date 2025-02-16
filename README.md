@@ -1,7 +1,3 @@
-Here’s a **README.md** file for your GitHub project. This document explains how your **auto-clicker** works, how to customize it for different colors and sizes, and how to run it.  
-
----
-
 ### **📜 README.md - Auto-Clicker for Color Detection**  
 
 # **🎯 Auto-Clicker for Game Squares**
