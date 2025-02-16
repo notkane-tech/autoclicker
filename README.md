@@ -160,8 +160,3 @@ This project is **open-source** and released under the **MIT License**. Feel fre
 - Add **support for clicking multiple colors**.
 - Add a **GUI** to adjust color detection dynamically.
 - Improve performance for **faster object tracking**.
-
----
-
-
-🔥 **Your GitHub project is now documented and ready to go!** Let me know if you need any refinements! 🚀🔥
