@@ -3,7 +3,7 @@ import numpy as np
 import mss
 
 # Define the correct monitor (update this based on your result)
-MONITOR_INDEX = 1  # Change this to your actual game screen
+MONITOR_INDEX = 1  # Change this to actual screen 
 
 # HSV values for purple squares (adjust as needed)
 lower_purple = np.array([255, 0, 255])  
